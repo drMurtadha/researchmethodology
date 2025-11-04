@@ -182,12 +182,6 @@
 - **Time Constrained**: Determine when each objective needs to be completed.
 
 #### SMART Words vs Non-SMART Words
-| SMART Words | Non-SMART Words |
-|-------------|-----------------|
-| Identify    | Investigate    |
-| Determine   | Study          |
-| Derive      | Explore        |
-| Assess/Evaluate | Observe     |
 
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
