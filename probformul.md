@@ -67,11 +67,7 @@
 - It is crucial that control chart patterns be recognised as they are developing so that the appropriate corrective action can be taken quickly to avoid production of defective items.
 
 ### Iteratively Refining Research Question Example
-| Research Question | Explanation |
-| --- | --- |
-| Q1. What effect does daily use of Twitter have on the attention span of under-16s? | The question is focused on the effects of Twitter use on a specific group. |
-| Q2. What effect does daily use of social media have on the attention span of under-16s? | Broader to social media in general. |
-| Q3. What effect does social media use have on people's minds? | Too broad, no specific group or effect. |
+
 
 <table border="1" cellpadding="8" cellspacing="0">
   <thead>
@@ -192,6 +188,33 @@
 | Determine   | Study          |
 | Derive      | Explore        |
 | Assess/Evaluate | Observe     |
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>SMART Words</th>
+      <th>Non-SMART Words</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Identify</td>
+      <td>Investigate</td>
+    </tr>
+    <tr>
+      <td>Determine</td>
+      <td>Study</td>
+    </tr>
+    <tr>
+      <td>Derive</td>
+      <td>Explore</td>
+    </tr>
+    <tr>
+      <td>Assess / Evaluate</td>
+      <td>Observe</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Examples of Research Objectives
 1. To propose a new cooperative feature selection scheme that produces the optimum number and combination of features for better classification performance.
