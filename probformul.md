@@ -200,6 +200,39 @@
 |--------------------|---------------------|
 | How to design a Convolutional Neural Network-based representation learning for molecular activity prediction? | To design a Convolutional Neural Network-based representation learning for molecular activity prediction. |
 
+<h3>Example 1</h3>
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Research Questions</th>
+      <th>Research Objectives</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>How can a new generative seq2seq learning task response model based on attentive scoring function be developed?</td>
+      <td>To develop a new generative seq2seq learning task response model based on attentive scoring function.</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<h3>Example 2</h3>
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Research Questions</th>
+      <th>Research Objectives</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>How to design a Convolutional Neural Network-based representation learning for molecular activity prediction?</td>
+      <td>To design a Convolutional Neural Network-based representation learning for molecular activity prediction.</td>
+    </tr>
+  </tbody>
+</table>
 - (i) How can a vehicle acquire accurate context information in a dynamic and uncertain environment? → To develop a vehicle context acquisition model that can handle dynamic and uncertain environments.
 
 ## Part 7: Research Scope
