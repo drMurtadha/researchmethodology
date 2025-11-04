@@ -255,7 +255,11 @@
 - Useful in research problem formulation to break down complex issues, such as in cybersecurity.
 
 
-
+<p align="center">
+  <img src="https://goleansixsigma.com/wp-content/uploads/2023/12/Fishbone-Diagram-GLSS-jpg.webp" alt="Fishbone Diagram" width="600"/>
+  <br/>
+  <em>Figure 1: Example of a Fishbone (Ishikawa) Diagram from GoLeanSixSigma</em>
+</p>
 
 ### Example: Information Security in Organization
 - Categories: People, Organization, Inadequacy.
