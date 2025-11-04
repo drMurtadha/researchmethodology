@@ -73,6 +73,29 @@
 | Q2. What effect does daily use of social media have on the attention span of under-16s? | Broader to social media in general. |
 | Q3. What effect does social media use have on people's minds? | Too broad, no specific group or effect. |
 
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Research Question</th>
+      <th>Explanation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Q1. What effect does daily use of Twitter have on the attention span of under-16s?</td>
+      <td>The question is focused on the effects of Twitter use on a specific group.</td>
+    </tr>
+    <tr>
+      <td>Q2. What effect does daily use of social media have on the attention span of under-16s?</td>
+      <td>Broader to social media in general.</td>
+    </tr>
+    <tr>
+      <td>Q3. What effect does social media use have on people's minds?</td>
+      <td>Too broad, no specific group or effect.</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Part 3: Formulating Research Questions and Hypothesis
 ### Research Questions
 - Do I know the field and its literature well?
@@ -190,15 +213,7 @@
 - Credit: Prof. Dr. The Sian Hoon (visual representation of mapping questions to objectives).
 
 ### Examples: Research Questions to Objectives
-#### Example 1
-| Research Questions | Research Objectives |
-|--------------------|---------------------|
-| How can a new generative seq2seq learning task response model based on attentive scoring function be developed? | To develop a new generative seq2seq learning task response model based on attentive scoring function. |
 
-#### Example 2
-| Research Questions | Research Objectives |
-|--------------------|---------------------|
-| How to design a Convolutional Neural Network-based representation learning for molecular activity prediction? | To design a Convolutional Neural Network-based representation learning for molecular activity prediction. |
 
 <h3>Example 1</h3>
 <table border="1" cellpadding="8" cellspacing="0">
