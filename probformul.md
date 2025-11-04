@@ -269,13 +269,23 @@
   - Inadequacy: Lack of security of access to information in each room; Lack of knowledge regarding the importance of information security; Lack of training on information security.
 - Problem: Information security in the Judicial Commission has not been as expected.
 
-
+<p align="center">
+  <img src="https://www.researchgate.net/publication/342489130/figure/fig1/AS:906863470198784@1593224508006/Fishbone-Diagram-Analysis.png" alt="Fishbone Diagram - ResearchGate" width="600"/>
+  <br/>
+  <em>Figure 2: Fishbone Diagram Analysis from ResearchGate (2020)</em>
+</p>
 
 
 ### Example: Modern Cyber Assurance Fatigue
 - From the chapter on phishing attacks root causes, similar diagrams are used to categorize factors in cybersecurity issues.
 - Specific to Cyber Assurance Fatigue: The diagram uses Ishikawa notation to illustrate causes leading to fatigue in cyber assurance practices.
 
+<p align="center">
+  <img src="https://www.researchgate.net/publication/350055547/figure/fig1/AS:1001435693076480@1615772283210/Modern-Cyber-Assurance-Fatigue-Cause-and-Effect-Diagram-using-Ishikawa-Notation-and.png" 
+       alt="Cyber Assurance Fatigue Diagram - ResearchGate" width="600"/>
+  <br/>
+  <em>Figure 3: Cause-and-Effect Diagram using Ishikawa Notation for Cyber Assurance Fatigue (ResearchGate, 2021)</em>
+</p>
 
 
 
